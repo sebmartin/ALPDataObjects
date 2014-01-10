@@ -1,6 +1,5 @@
 //
 //  TestDataObject.h
-//  lighthouse
 //
 //  Created by Seb Martin on 12-07-10.
 //  Copyright (c) 2012 Seb Martin. All rights reserved.

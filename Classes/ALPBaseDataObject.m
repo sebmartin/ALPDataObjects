@@ -1,6 +1,5 @@
 //
-//  BaseDataObject.m
-//  lighthouse
+//  ALPBaseDataObject.m
 //
 //  Created by Seb Martin on 12-06-08.
 //  Copyright (c) 2012 Seb Martin. All rights reserved.

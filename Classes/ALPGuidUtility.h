@@ -1,6 +1,5 @@
 //
 //  ALPGuidUtility.h
-//  lighthouse
 //
 //  Created by Seb Martin on 2012-08-16.
 //  Copyright (c) 2012 Seb Martin. All rights reserved.

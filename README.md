@@ -74,3 +74,6 @@ Almost all types data types are supported without any additional effort.  The ex
 ## Sound Familiar?
 
 Yeah, it is.  Github did something similar with [Mantle](https://github.com/MantleFramework/Mantle) and pushed it a little further even with JSON features.  Mantle was made public _maybe_ one month after I completed this.
+
+## License
+Licensed under MIT.  See license file for details.

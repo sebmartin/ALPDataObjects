@@ -11,17 +11,7 @@
 
 + (NSString*)generateGuid
 {
-    // create a new UUID which you own
-    CFUUIDRef uuid = CFUUIDCreate(kCFAllocatorDefault);
-    
-    // create a new CFStringRef (toll-free bridged to NSString)
-    // that you own
-    NSString *uuidString = (NSString *)CFBridgingRelease(CFUUIDCreateString(kCFAllocatorDefault, uuid));
-    
-    // release the UUID
-    CFRelease(uuid);
-    
-    return uuidString;
+    return [[NSUUID UUID] UUIDString];
 }
 
 @end

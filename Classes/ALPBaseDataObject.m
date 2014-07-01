@@ -55,6 +55,8 @@
         const char *attr = property_getAttributes(properties[i]);
         block(name, attr);
     }
+    
+    free(properties);
 }
 
 #pragma mark - Default encode/decode implementations
